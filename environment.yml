@@ -1,0 +1,13 @@
+name: test-grasping
+dependencies:
+  - python=3.9.7
+  - pip:
+    - dlib==19.23.0
+    - imageio==2.9.0
+    - imageio-ffmpeg==0.4.7
+    - numpy==1.22.3
+    - pillow==9.1.0
+    - scipy==1.7.1
+    - tqdm==4.64.0
+    - typing-extensions==4.2.0
+    - clip-by-openai

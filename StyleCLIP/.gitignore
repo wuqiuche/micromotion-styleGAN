@@ -1,0 +1,6 @@
+/.idea/
+/latents/
+/results/
+/mine/
+*.pt
+*.pth
