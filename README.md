@@ -2,18 +2,18 @@
 ### [Project Page](https://wuqiuche.github.io/micromotion-project-page/) | [Paper](https://arxiv.org/abs/2204.12696)
 ### Demo: [![Explore Micromotion in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12x4OFh95gg9fTOvmMHKCbYco_GHfSZh5?usp=sharing)<br>
 
-[Qiucheng Wu](https://wuqiuche.github.io/)\*<sup>1</sup>,
-[Yifan Jiang](https://yifanjiang.net/)\*<sup>2</sup>,
-[Junru Wu](http://sandbox3aster.github.io/)\*<sup>3</sup>,
+[Qiucheng Wu](https://wuqiuche.github.io/)<sup>1</sup>\*,
+[Yifan Jiang](https://yifanjiang.net/)<sup>2</sup>\*,
+[Junru Wu](http://sandbox3aster.github.io/)<sup>3</sup>\*,
 [Kai Wang](https://scholar.google.com/citations?user=_yK8SN0AAAAJ&hl=en)<sup>5,6</sup>,
 [Gong Zhang]()<sup>5,6</sup>,
 [Humphrey Shi](https://www.humphreyshi.com/)<sup>4,5,6</sup>,
 [Zhangyang Wang](https://vita-group.github.io/)<sup>2</sup>,
-[Shiyu Chang](https://code-terminator.github.io/)<sup>1</sup>,
+[Shiyu Chang](https://code-terminator.github.io/)<sup>1</sup>
 <br>
-<sup>1</sup>University of California, Santa Barbara, <sup>2</sup>The University of Texas at Austin, <sup>3</sup>Texas A&M University, <sup>4</sup>UIUC, <sup>5</sup>University of Oregon, <sup>6</sup>Picsart AI Research
+<sup>1</sup>University of California, Santa Barbara, <sup>2</sup>The University of Texas at Austin, <sup>3</sup>Texas A&M University, <sup>4</sup>UIUC, <sup>5</sup>University of Oregon, <sup>6</sup>Picsart AI Research (PAIR)
 
-\*denotes equal contribution
+\*denotes equal contribution.
 
 This is the official implementation of the paper "Grasping the Arrow of Time from the Singularity: Decoding Micromotion in Low-dimensional Latent Spaces from StyleGAN".
 
