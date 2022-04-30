@@ -47,10 +47,10 @@ You can also clone the github repo.
 ```bash
 git clone https://github.com/wuqiuche/micromotion-codebase.git
 ```
-Download the pre-trained inverter, generator identity models.
-- [Inverter](https://drive.google.com/file/d/1r5KSlQhf93fUllwqid80p4fxlzdR5A3f/view?usp=sharing), move it under ```restyle_encoder/pretrained_models/```
-- [Generator](https://drive.google.com/file/d/1TaFSoIwbajdqYVlXMvD48XqaP4j2Xjy-/view?usp=sharing), move it under ```StyleCLIP/```
-- [Identity](https://drive.google.com/file/d/1GBLxApwIXbbyi3GLfY0Rc7o-XaAyP_zJ/view?usp=sharing), move it under ```StyleCLIP/```
+The pretrained models we used are from the following repositories: [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) and [restyle-encoder](https://github.com/yuval-alaluf/restyle-encoder). Please download the pre-trained inverter, generator and identity models from their repositories. The models we used are:
+- [Inverter](https://drive.google.com/file/d/1sw6I2lRIB0MpuJkpc8F5BJiSZrc0hjfE/view), move it under ```restyle_encoder/pretrained_models/```
+- [Generator](https://drive.google.com/file/d/1EM87UquaoQmk17Q8d5kYIAHqu0dkYqdT/view), move it under ```StyleCLIP/```
+- [Identity](https://drive.google.com/file/d/1KW7bjndL3QG3sxBbZxreGHigcCCpsDgn/view), move it under ```StyleCLIP/```
 
 #### Reproduce results from pre-trained micromotion latents
 
