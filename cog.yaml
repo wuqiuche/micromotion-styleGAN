@@ -1,0 +1,26 @@
+build:
+  cuda: "11.0"
+  gpu: true
+  python_version: "3.8"
+  system_packages:
+    - "libgl1-mesa-glx"
+    - "libglib2.0-0"
+    - "ninja-build"
+  python_packages:
+    - "numpy==1.21.1"
+    - "ipython==7.21.0"
+    - "imageio==2.9.0"
+    - "imageio-ffmpeg==0.4.7"
+    - "Pillow==9.1.0"
+    - "cmake==3.22.4"
+    - "torch==1.10.1"
+    - "torchvision==0.11.2"
+    - "tqdm==4.64.0"
+    - "scipy==1.8.0"
+    - "scikit-image==0.19.2"
+    - "matplotlib==3.5.1"
+    - "git+https://github.com/openai/CLIP.git"
+  run:
+    - pip install dlib
+
+predict: "predict.py:Predictor"

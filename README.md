@@ -1,5 +1,6 @@
 # Grasping the Arrow of Time from the Singularity: Decoding Micromotion in Low-dimensional Latent Spaces from StyleGAN
 ### [Project Page](https://wuqiuche.github.io/micromotion-project-page/) | [Paper](https://arxiv.org/abs/2204.12696)
+Try the web demo here [![Replicate](https://replicate.com/wuqiuche/micromotion-stylegan/badge)](https://replicate.com/wuqiuche/micromotion-stylegan)
 ### Demo: [![Explore Micromotion in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12x4OFh95gg9fTOvmMHKCbYco_GHfSZh5?usp=sharing)<br>
 
 [Qiucheng Wu](https://wuqiuche.github.io/)<sup>1</sup>\*,
